@@ -1,18 +1,6 @@
 
 
-""" 
-    This is the code to accompany the Lesson 1 (Naive Bayes) mini-project. 
-    Use a Naive Bayes Classifier to identify emails by their authors
-    
-    authors and labels:
-    Sara has label 0
-    Chris has label 1
-    
-    RESULTS
-    training time: 2.132 s
-    prediction time: 0.379 s
-    Accuracy: 0.973265073948
-"""
+
     
 import sys
 from time import time

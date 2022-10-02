@@ -1,12 +1,6 @@
 #use .round() for prediction accuracy_score is a classification metric, you cannot use it for a regression problem.
 
-""" 
-    This is the code to accompany the Lesson 3 (decision tree) mini-project.
 
-    Use a Decision Tree to identify emails from the Enron corpus by author:    
-    Sara has label 0
-    Chris has label 1
-"""
     
 import sys
 from time import time

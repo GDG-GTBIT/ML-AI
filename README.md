@@ -20,4 +20,10 @@ To begin, the following steps should be followed:-
 3. [GitHub Help](https://help.github.com/)
 
 
+## :handshake: Our Contributors
+<a href="hhttps://github.com/dsc-gtbit/ML-AI/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dsc-gtbit/ML-AI"/>
+</a>
+
+
 ### Happy Hacking with Python!!!
